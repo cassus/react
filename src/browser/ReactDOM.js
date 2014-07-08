@@ -129,6 +129,7 @@ var ReactDOM = mapObject({
   main: false,
   map: false,
   mark: false,
+  marker: false,
   menu: false,
   menuitem: false, // NOTE: Close tag should be omitted, but causes problems.
   meta: true,

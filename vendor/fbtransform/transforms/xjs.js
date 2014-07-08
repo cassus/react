@@ -91,6 +91,7 @@ var knownTags = {
   main: true,
   map: true,
   mark: true,
+  marker: true,
   marquee: true,
   mask: false,
   menu: true,
